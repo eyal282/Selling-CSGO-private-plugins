@@ -8,7 +8,7 @@ I can script for pay as well if I am not busy.
 I'm selling three plugins, two of which exist in Counter Strike 1.6 and therefore are detailed:
 
 
-1.  JailBreak Last Request which is very custom and on a technical level there are around 2000+ different last requests you can start.
+1.  JailBreak Last Request which is very custom and on a technical level there are around 19200+ different last requests you can start. I calculated a part of it and this number is the biggest, therefore you can be sure this Last Request is different than many.
 
 Note: The JailBreak Last Request outweighs every single existing JailBreak plugin if you don't like glowing sh**. A player can decide rules, like HS or not, bunnyhop or not, crouch and jump or not, vest helmet or not and etc... Shot 4 Shot is built that cheating is impossible. Suicide is impossible as well, but it will still damage and kill you. The Last Request has First Writes, Combo Contest, Math Contest, noclip knife duel, invisible knife duel ( the non-invisible / noclip player gets m4a1 ) and many more.
 
