@@ -20,4 +20,4 @@ Note that I have Prestige system attached to the Gun-XP but I can remove it if y
 
 Note: Despite the fact that gas nades should bypass armour, I didn't make it but if you buy the plugin and want it I can add it for you.
 
-You can send me offers
+You can send me offers for prices.
