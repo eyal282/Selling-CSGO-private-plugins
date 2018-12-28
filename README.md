@@ -11,4 +11,4 @@ I can script for pay as well if I am not busy.
 
 My Website: https://eyal28214.wixsite.com/mysite
 
-<span style="font-size:1%">Keywords: CSGO Plugins, CSS Plugins, Sourcemod Plugins, Sourcemod Private Plugins, Sourcemod Paid Plugins, CSGO Private Plugins, CSS Private Plugins, Plugin Selling Sourcemod, Sourcemod Shop, Sourcemod Store, PayPal, PayPal Only, Eyal282, Allied Modders, AlliedModders, Alliedmods, Allied Mods</span>
+Keywords: CSGO Plugins, CSS Plugins, Sourcemod Plugins, Sourcemod Private Plugins, Sourcemod Paid Plugins, CSGO Private Plugins, CSS Private Plugins, Plugin Selling Sourcemod, Sourcemod Shop, Sourcemod Store, PayPal, PayPal Only, Eyal282, Allied Modders, AlliedModders, Alliedmods, Allied Mods
