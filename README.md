@@ -1,14 +1,15 @@
-# Selling-CSGO-private-plugins
-If you wanna buy a plugin I made for CSGO feel free to contact me on steam: https://steamcommunity.com/profiles/76561198059282016/
+# Private sourcemod plugins
+If you would like to purhcase a plugin then please feel free to contact me on [steam](https://steamcommunity.com/profiles/76561198059282016/).
 
-If you add me on steam, you must comment on my profile beforehand or I'll ignore the request.
+If you add me on steam I politely ask that you please, please, please comment first.
 
-If you want a detailed list I made a discord server dedicated to that: https://discord.gg/wA7c7bQ
+I also accept paid requests! :+1:
 
-If you use Allied-Modders this is my account there: https://forums.alliedmods.net/member.php?u=152421
+## Relevant links
+[List of plugins](https://discord.gg/wA7c7bQ)
+[My website](https://eyal28214.wixsite.com/mysite)
+[Steam](https://steamcommunity.com/profiles/76561198059282016/)
+[Allied Modders](https://forums.alliedmods.net/member.php?u=152421)
 
-I can script for pay as well if I am not busy.
-
-My Website: https://eyal28214.wixsite.com/mysite
-
-Keywords: CSGO Plugins, CSS Plugins, Sourcemod Plugins, Sourcemod Private Plugins, Sourcemod Paid Plugins, CSGO Private Plugins, CSS Private Plugins, Plugin Selling Sourcemod, Sourcemod Shop, Sourcemod Store, PayPal, PayPal Only, Eyal282, Allied Modders, AlliedModders, Alliedmods, Allied Mods
+## Contributors
+[B3none](https://github.com/b3none)
